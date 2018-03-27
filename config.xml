@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>manageorderstatus</name>
+	<displayName><![CDATA[Manage order status v1.6.1]]></displayName>
+	<version><![CDATA[1]]></version>
+	<description><![CDATA[Module automate updating of order status and sends notification 
+					       for provided order ID and shipping tracking ID]]></description>
+	<author><![CDATA[Dhananjay Pandey]]></author>
+	<tab><![CDATA[quick_bulk_update]]></tab>
+	<is_configurable>0</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
